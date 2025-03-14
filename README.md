@@ -6,13 +6,19 @@ This Power BI dashboard provides insights into employee attrition patterns, high
 ## 📝 Features
 
 Interactive Filter: Filter data by Gender to analyze specific groups.
+
 KPI Cards: Displays key metrics including:
 Total Employee Count
 Average Age of Attrited Employees
-Impact of Work-Life Balance Chart: Visualizes how different levels of work-life balance influence attrition rates.
+
+Impact of Work-Life Balance Chart: Visualizes how different levels of work-life balance influence attrition rates. 
+
 Attrition Proportion Pie Chart: Shows the percentage of employees who left the organization.
+
 Attrition by Department: Highlights attrition counts across various departments.
+
 Attrition Patterns Based on Job Role or Education Level: Analyzes attrition trends by specific roles or education backgrounds.
+
 Attrition by Age Group: Displays age-wise distribution of employees who left the organization.
 
 ## 🖼️ Dashboard Preview
